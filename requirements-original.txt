@@ -1,0 +1,6 @@
+# Environment that runs the authors' released code (and compare_original.py).
+# Their code fails on NumPy >= 2 (np.Inf removed; int() of 1-element arrays),
+# so it needs a 2020-era stack. Use Python 3.8.
+numpy==1.18.5
+scipy==1.4.1
+matplotlib==3.2.2

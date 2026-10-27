@@ -1,0 +1,7 @@
+# This reimplementation. Tested with Python 3.13, numpy 2.5.3, scipy 1.18.1,
+# matplotlib 3.11.2, pytest 9.1.1. sanders_model.py and compare_original.py
+# also run under the 2020-era stack in requirements-original.txt.
+numpy
+scipy
+matplotlib
+pytest

@@ -1,0 +1,9 @@
+param,value,first_two_state_pair,evidence_ratio_at_15
+published,,8,-9.7
+alpha,1e-10,none,11.1
+alpha,1e-05,15,-0.4
+alpha,10.0,2,-14.3
+nu0,2.0,1,-15.3
+nu0,10.0,1,-18.0
+kappa0,1.0,13,-3.1
+kappa0,10.0,none,15.4
