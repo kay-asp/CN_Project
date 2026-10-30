@@ -1,4 +1,4 @@
-# Environment that runs the authors' released code (and compare_original.py).
+# Environment that runs the authors' released code (and compare_original.py, which imports model.py).
 # Their code fails on NumPy >= 2 (np.Inf removed; int() of 1-element arrays),
 # so it needs a 2020-era stack. Use Python 3.8.
 numpy==1.18.5
